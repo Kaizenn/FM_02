@@ -9,4 +9,4 @@
 
 ### Links
 
-- https://kaizenn.github.io/FM_02/
+- https://kaizenn.github.io/FM_02/src/index.html
